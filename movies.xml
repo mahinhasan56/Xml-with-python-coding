@@ -1,0 +1,33 @@
+<collection shelf="New Arrivals">
+<movie title="Enemy Behind">
+   <type>Head First Java</type>
+   <format>DVD</format>
+   <year>2008</year>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Happy Faysal</description>
+</movie>
+<movie title="Transformers">
+   <type>Introduction to python</type>
+   <format>DVD</format>
+   <year>2005</year>
+   <rating>R</rating>
+   <stars>8</stars>
+   <description>Indroduction to c#</description>
+</movie>
+   <movie title="Trigun">
+   <type>Anime, Action</type>
+   <format>DVD</format>
+   <episodes>4</episodes>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Vash the Stampede!</description>
+</movie>
+<movie title="Ishtar">
+   <type>Comedy</type>
+   <format>VHS</format>
+   <rating>PG</rating>
+   <stars>2</stars>
+   <description>Viewable boredom</description>
+</movie>
+</collection>
